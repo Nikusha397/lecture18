@@ -22,7 +22,7 @@ const btn = document.getElementById("btn");
 function ticketGe() {
 
     let age = Number(prompt("შეიყვანეთ ასაკი"));
-    let movieType = prompt ("2დ or 3დ")
+    let movieType = prompt ("2დ თუ 3დ")
     let timeOfDay = prompt ("დილა თუ საღამო")
     let discount = prompt ("გთხოვთ შეიყვანოთ პრომოკოდი (კი / არა)")
     let price;
