@@ -80,7 +80,7 @@ function ticketGe() {
         break;
 
     default:
-        alert("არასწორი მნიშვნელობა შეიყვანეთ");
+        alert("ასეთ პრომოკოდი არარსებობს");
         break;
 }
 
