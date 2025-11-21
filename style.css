@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("animation/winter.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  width: 500px;
+  height: 100px;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  background: #1f1c2c;
+  background: -webkit-linear-gradient(to right, #928dab, #1f1c2c);
+  background: linear-gradient(to right, #928dab, #1f1c2c);
+  font-size: 20px;
+}
